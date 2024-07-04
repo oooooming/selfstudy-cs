@@ -63,4 +63,9 @@ handling packets two ways for packet -> network
 
 - grouping: VPC
 
+  > 여러개의 VCC를 VPC가 grouping하고 있음
+  >
+  > 여러개의 VCC를 관리하기 위한 identifier restriction이 VPC내에 필요
+
   -> simplifying, reliable, short set-up time, performace↑, processing↓
+  
