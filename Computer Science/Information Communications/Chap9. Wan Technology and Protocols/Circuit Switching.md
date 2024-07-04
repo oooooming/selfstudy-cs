@@ -33,5 +33,5 @@
 - 하드웨어 하나로 소프트웨어적으로 문제를 해결함
   
   : physically same circuit, time slot을 다르게 할당하여 switching
-  
- -> virtual cirsuit setup and maintain에 사용됨
+
+  -> virtual cirsuit setup and maintain에 사용됨
