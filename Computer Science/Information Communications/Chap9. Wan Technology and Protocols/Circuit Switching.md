@@ -1,5 +1,4 @@
-# Circuit Switching
-## (wire) "차례대로"
+# Circuit Switching (wire) "차례대로"
 
 : dedicated path 
 
