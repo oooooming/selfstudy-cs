@@ -37,9 +37,9 @@ handling packets two ways for packet -> network
 
 - "cells" small, fixed 
 
-> small: high flexibility
->
-> fixed: lower jiter
+  > small: high flexibility
+  >
+  > fixed: lower jiter
 
 - rich QoS capability를 서포트해주고 traffic을 관리하기 위한 강력한 도구
 
