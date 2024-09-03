@@ -41,11 +41,9 @@
 
 **case2. multisender일 때,**
 
-  -sender1:
+![cdma2](https://github.com/user-attachments/assets/3a00b5f8-6562-44a0-885b-79b6193df5a3)
 
-  -sender2:
-
-  -receiver: 
+=> useful!
 
 
   
