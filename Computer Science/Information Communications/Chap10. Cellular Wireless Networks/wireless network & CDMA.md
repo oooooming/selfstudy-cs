@@ -33,9 +33,7 @@
 
 **case1. sender1일 때,**
 
-  -sender:
-
-  -receiver: 
+![cdma1](https://github.com/user-attachments/assets/240bd8c2-d90a-443c-85c1-4aa6eda6d9b5) 
 
   => not useful yet
 
